@@ -10,7 +10,7 @@
 
 <h1>Portfolio</h1>
 
-<img src="thesa.jpg" alt="Profile Picture" width="200">
+<img src="tessa.jpg" alt="Profile Picture" width="200">
 
 
 <p>Hello! My name is Tessa A. Anilao, and I'm passionate about web development and design. I love exploring new technologies and to bond with my friends and my family.Also i love to travel, and watching Movies.</p>
